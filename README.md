@@ -27,7 +27,7 @@ To participate in Illuminate, follow these steps:
 
 For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
-- **Email:** [YourEmail@example.com]
+- **Email:** [dasarirahulpatel.drp@gmail.com]
 - **Phone:** [Your Phone Number]
 - **Social Media:** Follow us on [Social Media Platforms] for updates and announcements.
 
