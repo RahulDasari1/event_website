@@ -7,7 +7,8 @@
 }
 section{
     min-height: 100vh;
-    background-image:linear-gradiemt(rgba(0,0,0,0,60),rgba(0,0,0,0,60)) url("123.jpg");
+    background-image: url("./123.jpg");
+    background-image:linear-gradiemt(rgba(0,0,0,0,60),rgba(0,0,0,0,60)) url("./123.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
