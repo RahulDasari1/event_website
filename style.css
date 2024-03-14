@@ -7,8 +7,8 @@
 }
 section{
     min-height: 100vh;
-    background-image: url("./1.jpg");
-    background-image:linear-gradiemt(rgba(0,0,0,0,60),rgba(0,0,0,0,60)) url("./1.jpg");
+    background-image: url("./3.jpg");
+    background-image:linear-gradiemt(rgba(0,0,0,0,60),rgba(0,0,0,0,60)) url("./3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -24,7 +24,7 @@ nav h1{
     line-height: 80px;
     font-size: 35px;
     font-size: inline;
-    color:#eb7620;
+    color:white;
 }
 nav ul{
     float: right;
@@ -43,11 +43,11 @@ nav ul li a{
     padding: 7px 8px;
 }
 nav ul li a:hover{
-    background-color: #eb7620;
+    background-color: red;
     transition: 0.5s ease;
 }
 nav ul li .active{
-    background-color: #eb7620;
+    background-color: red;
 }
 .article{
     width: 50%;
@@ -56,15 +56,16 @@ nav ul li .active{
     transform: translateY(25vh);
 }
 .article h1{
-    font-size: 36px;
+    font-size: 50px;
+    text-align: center;
     color:#fff;
     letter-spacing: 1.5px;
     font-weight: 800;
     margin-bottom: 25px;
 }
 .article p{
-    font-size: 18px;
-    color:#7e7e7e;
+    font-size: 20px;
+    color:white;
     line-height: 1.5;
     margin-bottom: 50px;
 }
@@ -74,9 +75,9 @@ nav ul li .active{
     letter-spacing: 1.5px;
     text-transform: uppercase;
     text-decoration: none;
-    background-color: #f15048;
+    background-color: red;
 }
 .article .btn:hover{
-    background-color: #4399fa;
+    background-color: black;
     transition: 0.5s ease;
 }

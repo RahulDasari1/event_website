@@ -2,6 +2,8 @@
 
 Welcome to Illuminate, the annual technical fest of [Your College Name]! This README provides an overview of the event, its purpose, features, and instructions for participants.
 
+![alt text](<Screenshot (38)-1.png>)
+
 ## About Illuminate
 
 Illuminate is a celebration of innovation, creativity, and technical prowess. It serves as a platform for students to showcase their talents, learn from industry experts, and engage in various technical and non-technical activities. Our fest aims to inspire, educate, and empower the next generation of innovators and leaders.
