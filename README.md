@@ -1,6 +1,6 @@
 # Illuminate - College Technical Fest
 
-Welcome to Illuminate, the annual technical fest of [Your College Name]! This README provides an overview of the event, its purpose, features, and instructions for participants.
+Welcome to Illuminate, the annual technical fest of CMR Institute of Technology! This README provides an overview of the event, its purpose, features, and instructions for participants.
 
 ![alt text](<Screenshot (38)-1.png>)
 
