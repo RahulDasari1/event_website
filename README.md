@@ -1,6 +1,8 @@
 # Illuminate - College Technical Fest
 
-Welcome to Illuminate, the annual technical fest of [Your College Name]! This README provides an overview of the event, its purpose, features, and instructions for participants.
+Welcome to Illuminate, the annual technical fest of CMR Institute of Technology! This README provides an overview of the event, its purpose, features, and instructions for participants.
+
+![alt text](<Screenshot (38)-1.png>)
 
 ## About Illuminate
 
@@ -29,7 +31,7 @@ For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
 - **Email:** [dasarirahulpatel.drp@gmail.com]
 - **Phone:** [+91 8919936002]
-- **Social Media:** Follow us on [Social Media Platforms] for updates and announcements.
+- **Social Media:** Follow us on [[Social Media Platforms](https://www.linkedin.com/in/rahul-dasari-drp/)] for updates and announcements.
 
 ## Contributors
 
