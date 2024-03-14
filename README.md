@@ -31,7 +31,7 @@ For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
 - **Email:** [dasarirahulpatel.drp@gmail.com]
 - **Phone:** [+91 8919936002]
-- **Social Media:** Follow us on [Social Media Platforms] for updates and announcements.
+- **Social Media:** Follow us on [[Social Media Platforms](https://www.linkedin.com/in/rahul-dasari-drp/)] for updates and announcements.
 
 ## Contributors
 
