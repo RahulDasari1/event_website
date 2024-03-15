@@ -35,8 +35,8 @@ For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
 ## Contributors
 
-Rahul Dasari - Developer (Lead)
-Kartheek Dama - Developer
+Rahul Dasari - Developer (Lead) | 
+Kartheek Dama - Developer | 
 Lalithya - Developer
 
 Illuminate is made possible by the collective efforts and contributions of numerous individuals, including organizers, volunteers, sponsors, and participants. We extend our heartfelt gratitude to everyone involved in making this event a grand success.
