@@ -1,6 +1,6 @@
 # Illuminate - College Technical Fest
 
-Welcome to Illuminate, the annual technical fest of CMR Institute of Technology! This README provides an overview of the event, its purpose, features, and instructions for participants.
+Welcome to Illuminate 2k24, the annual technical fest of CMR Institute of Technology! This README provides an overview of the event, its purpose, features, and instructions for participants.
 
 ![alt text](<Screenshot (38)-1.png>)
 
@@ -19,7 +19,7 @@ Illuminate is a celebration of innovation, creativity, and technical prowess. It
 
 To participate in Illuminate, follow these steps:
 
-1. **Registration:** Visit our website [YourWebsiteURL] and complete the registration process. Make sure to provide accurate information and select the events you wish to participate in.
+1. **Registration:** Visit our website [https://rahuldasari1.github.io/event_website/] and complete the registration process. Make sure to provide accurate information and select the events you wish to participate in.
 2. **Event Schedule:** Check the event schedule on our website to stay updated with the timings and locations of various activities and competitions.
 3. **Preparation:** Prepare for your chosen competitions or workshops by brushing up on relevant skills, gathering necessary materials, and familiarizing yourself with the event guidelines.
 4. **Attendance:** Attend the fest on the specified dates and venues. Arrive on time for your registered events and make the most out of your participation.
@@ -31,7 +31,7 @@ For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
 - **Email:** [dasarirahulpatel.drp@gmail.com]
 - **Phone:** [+91 8919936002]
-- **Social Media:** Follow us on [[Social Media Platforms](https://www.linkedin.com/in/rahul-dasari-drp/)] for updates and announcements.
+- **Social Media:** Connect us on [LinkedIn(https://www.linkedin.com/in/rahul-dasari-drp/)] for updates and announcements.
 
 ## Contributors
 
