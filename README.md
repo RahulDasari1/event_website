@@ -31,11 +31,15 @@ For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
 - **Email:** [dasarirahulpatel.drp@gmail.com]
 - **Phone:** [+91 8919936002]
-- **Social Media:** Connect us on [LinkedIn(https://www.linkedin.com/in/rahul-dasari-drp/)] for updates and announcements.
+- **Social Media:** Connect us on [https://www.linkedin.com/in/rahul-dasari-drp/] for updates and announcements.
 
 ## Contributors
 
+Rahul Dasari - Developer (Lead)
+Kartheek Dama - Developer
+Lalithya - Developer
+
 Illuminate is made possible by the collective efforts and contributions of numerous individuals, including organizers, volunteers, sponsors, and participants. We extend our heartfelt gratitude to everyone involved in making this event a grand success.
 
-Thank you for your interest in Illuminate! We look forward to seeing you at the fest and witnessing your brilliance shine bright.
+Thank you for your interest in Illuminate 2k24! We look forward to seeing you at the fest and witnessing your brilliance shine bright.
 
