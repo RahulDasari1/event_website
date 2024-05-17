@@ -2,7 +2,19 @@
     font-family: Nunito, sans-serif;
     margin: auto;
     text-align: center;
-    
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  body {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../party_background.jpg) !important;
+    background-size: cover;
+    background-position: center;
+    position: relative;
   }
 
   #id1{
@@ -119,10 +131,12 @@
     display: block;
     flex-direction: column;
     align-items: center;
-    padding-top: 10px;
+    /* padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    padding-left: 10px;
+    padding-left: 10px; */
+    border-style: solid;
+    border-color:  white;
   }
   
   .card-img {
