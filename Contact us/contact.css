@@ -94,7 +94,7 @@ section {
 }
 
 .contact-info-content h4 {
-  color: #1da9c0;
+  color: #ec1633;
   font-size: 1.4em;
   margin-bottom: 5px;
 }
@@ -150,7 +150,7 @@ section {
 
 .contact-form .input-box input:focus ~ span,
 .contact-form .input-box textarea:focus ~ span{
-  color: #e91e63;
+  color: #ec1633;
   font-size: 12px;
   transform: translateY(-20px);
 }
@@ -158,20 +158,20 @@ section {
 .contact-form .input-box input[type="submit"]
 {
   width: 100%;
-  background: #00bcd4;
+  background: #ec1633;
   color: #FFF;
   border: none;
   cursor: pointer;
   padding: 10px;
   font-size: 18px;
-  border: 1px solid #00bcd4;
+  border: 1px solid #ec1633;
   transition: 0.5s;
 }
 
 .contact-form .input-box input[type="submit"]:hover
 {
   background: #FFF;
-  color: #00bcd4;
+  color: #ec1633;
 }
 
 @media (max-width: 991px) {

@@ -35,7 +35,7 @@ section .leftBox .content {
 /* Styling the hover effect 
 			of left floating section */
 section .leftBox .content:hover {
-    background: #e91e63;
+    background: #ec1633;
 }
 
 /* Styling the header of left 
@@ -100,7 +100,7 @@ section .events ul li .time {
 /* Styling the hover effect
 			of events section */
 section .events ul li:hover .time {
-    background: #e91e63;
+    background: #ec1633;
 }
 
 /* Styling the header of time 
@@ -166,7 +166,7 @@ section .events ul li .details a {
 
 /* Styling the details class's hover effect */
 section .events ul li .details a:hover {
-    background: #e91e63;
+    background: #ec1633;
     color: #fff;
-    border-color: #e91e63;
+    border-color: #ec1633;
 }
