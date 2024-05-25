@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url("../party_background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Add a dark overlay */
+}
+.container {
+  z-index: 1;
+  max-width: 600px;
+  padding: 20px;
+  border-radius: 10px;
+}
+h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+p {
+  margin-bottom: 30px;
+  font-size: 1.2em;
+}
+.social-icons a {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+.social-icons a:hover {
+  color: #ddd;
+}
